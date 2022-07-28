@@ -1,0 +1,5 @@
+# Ignore the dir
+/BayeSED
+/pkgs_fuym
+# Ignore fits data
+*.fits

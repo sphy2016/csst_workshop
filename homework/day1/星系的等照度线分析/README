@@ -1,0 +1,15 @@
+### Readme
+
+* This is the homework dir for CSST workshop course.
+
+* Day 1 isophote analysis, by Dr Yu
+* The sup material is in the sup_material dir, which contains the course slides. For any suitable question, one  could consider contacting the authors
+* The main part of the  homework of  this course is in “isophote_analysis.ipynb” file.
+
+---
+
+Reference:
+
+* See the photutils doc for details. 
+
+  https://photutils.readthedocs.io/en/stable/isophote.html

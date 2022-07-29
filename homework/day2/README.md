@@ -45,9 +45,8 @@ $$I = \sum_{ij}I_{ij} - n_{pix} \times \mathrm{sky/pixel}$$
 * 基于叠加的V和I波段图像，在用TopHat滤波后进行平滑
 * 探测后进行测光：ISO magnitudes & 考虑aperture修正后的Best magnitudes.   
 
-作业：利用Photutils对HST/EGS图像进行测光
-
-
+作业：
+* [利用Photutils对HST/EGS图像进行测光](./基于EGS的图像提取及结构测量/measure_photometry.ipynb)
 
 ---
 
@@ -100,3 +99,19 @@ Talker：黄崧 （清华大学）
 #### 局限：
 
 * 有些星系的物理性质是无法通过图像分解得到的。并且结构的分解仅仅能够提供测光的模型，不一定能够正确地反应真实的物理信息。同一个星系的不同数据、不同数据质量、不一定能够用一套参数来描述。
+
+---
+
+### 基于Galight分解类星体图像
+
+Talker: 丁旭恒（日本东京大学）
+
+* 作业：[基于Galight分解类星体图像](./基于galight分解类星体图像/gallight_demo.ipynb)
+
+---
+
+### 星系盘核分解
+
+Talker: 高桦（美国夏威夷大学）
+
+* 作业: * 作业：[星系盘核分解](./星系盘核分解/decomposition_galaixes.ipynb)
